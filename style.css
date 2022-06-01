@@ -1,0 +1,130 @@
+.green {
+  width: 40px;
+  margin-left: 10rem;
+}
+.navbar {
+  display: flex;
+}
+body {
+  background-color: aliceblue;
+}
+h1 {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 5px;
+}
+.home {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 24rem;
+}
+.about {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 5rem;
+}
+.contact {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 4rem;
+}
+.blog {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 3rem;
+}
+.bigdiv {
+  display: flex;
+}
+.tree {
+  padding-left: 10rem;
+  padding-top: 5rem;
+  font-size: 40px;
+  line-height: 3rem;
+}
+.navbtn {
+  background-color: rgb(21, 202, 21);
+  color: #fff;
+  width: 7rem;
+  height: 2.7rem;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+  border-color: rgb(21, 202, 21);
+  margin-left: 5rem;
+  margin-top: 0.5rem;
+}
+.yellow {
+  width: 32px;
+  padding-left: 7px;
+}
+.bird {
+  padding-left: 2rem;
+  padding-top: 1rem;
+  width: 30rem;
+}
+.lorem {
+  padding-left: 10rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.redf {
+  width: 12rem;
+  color: #fff;
+  background-color: rgb(21, 202, 21);
+  height: 2.7rem;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+  border-color: rgb(21, 202, 21);
+  margin-left: 1rem;
+}
+.small {
+  width: 8rem;
+  color: #fff;
+  background-color: rgb(21, 202, 21);
+  height: 2.7rem;
+  border-top-left-radius: 6px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+  border-top-right-radius: 6px;
+  border-color: rgb(21, 202, 21);
+  margin-left: 10rem;
+}
+/* @media only screen and (max-width: 600px) {
+  .home {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .about {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .contact {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .blog {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .navbtn {
+    display: none;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .tree {
+    font-size: medium;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .bird {
+    width: 15rem;
+  }
+} */
